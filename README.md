@@ -1,7 +1,5 @@
 
 Sup, Coding Maverick! 👨‍💻✨
-<!--
-**briankawa/briankawa** is a ✨ _coding wizard_ ✨ because its `README.md` (this file) is a magical spellbook.
 
 Here's the lowdown on my enchanted journey:
 
